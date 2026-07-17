@@ -182,13 +182,13 @@ You can add screenshots here:
 
 **Video Demo**
 
-> Add your YouTube or Google Drive link here.
+> https://www.youtube.com/watch?v=Mfc2Rc4_AZg
 
 ---
 
 ## 📄 Documentation
 
-Technical documentation is available in the `/docs` folder.
+Technical documentation is available in the `Technical Documentation (IDN)` PDF file.
 
 ---
 
