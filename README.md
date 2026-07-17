@@ -136,13 +136,8 @@ Recorded data includes:
 .
 ├── firmware.ino
 ├── README.md
-├── images/
-│   ├── hardware.jpg
-│   ├── dashboard.png
-│   └── wiring.png
-├── docs/
-│   └── Technical Documentation.pdf
-└── videos/
+└── Technical Documentation.pdf
+
 ```
 
 ---
