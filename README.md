@@ -198,14 +198,6 @@ Technical documentation is available in the `Technical Documentation (IDN)` PDF 
 
 Bachelor of Computer Engineering
 
-Interested in:
-
-- Internet of Things (IoT)
-- Embedded Systems
-- Automation
-- Smart Farming
-- Backend Development
-
 ---
 
 ## 📜 License
